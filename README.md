@@ -1,2 +1,2 @@
-# zhku-shoping
-团购网代码仓库
+# zhku-shopping
+< 把之前的项目——团购网 publish到github >
